@@ -11,7 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-aman67032-181717?style=for-the-badge&logo=github)](https://github.com/aman67032)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-pratap-singh-bb7b3532a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amanpratapsingh.dev)
+
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpratapsingh@jklu.edu.in)
 
 </div>
@@ -251,21 +251,7 @@ graph LR
 
 ---
 
-## GitHub Statistics & Activity
 
-<div align="center">
-
-### Contribution Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman67032&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman67032&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-### Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aman67032&theme=radical&hide_border=true)
 
 ### Activity Graph
 
