@@ -217,8 +217,8 @@ Browser-based adventure game featuring interactive gameplay mechanics, developed
 | **15+ Projects** | Successfully delivered institutional and personal projects |
 | **100+ Students** | Mentored in Python programming |
 | **10+ Hackathons** | Participated with consistent problem-solving performance |
-| **50+ Events** | Coordinated as Technical Secretary |
-| **2+ Years** | Active full-stack development experience |
+| **10+ Events** | Coordinated as Technical Secretary |
+| **1+ Years** | Active full-stack development experience |
 
 </div>
 
@@ -255,20 +255,6 @@ graph LR
 
 ---
 
-## Contribution Metrics
-
-<div align="center">
-
-| Metric | Details |
-|--------|---------|
-| **Total Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/aman67032&style=flat-square) |
-| **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/aman67032?style=flat-square&color=yellow) |
-| **Total Forks** | ![Forks](https://img.shields.io/github/forks/aman67032?style=flat-square&color=green) |
-| **Pull Requests** | ![PRs](https://img.shields.io/badge/Pull%20Requests-Check%20Profile-orange?style=flat-square) |
-| **Issues Opened** | ![Issues](https://img.shields.io/badge/Issues-Check%20Profile-red?style=flat-square) |
-| **Contributions (2024)** | ![Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=flat-square) |
-
-</div>
 
 ---
 
