@@ -253,12 +253,6 @@ graph LR
 
 
 
-### Activity Graph
-
-[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aman67032&theme=react-dark&hide_border=true)](https://github.com/aman67032)
-
-</div>
-
 ---
 
 ## Contribution Metrics
@@ -278,24 +272,7 @@ graph LR
 
 ---
 
-## Recent Activity
 
-<div align="center">
-
-<!--START_SECTION:activity-->
-<!-- This section can be automated with GitHub Actions -->
-<!-- For now, manually update your recent activities -->
-
-```
-Recent Contributions:
-├── 🔨 Pushed to CareSure_Frontend_EBM
-├── 🔀 Merged PR in Exam_portal_backend_JKLU_solomaze
-├── ⭐ Created new repository: [Recent Project Name]
-├── 📝 Updated documentation in Health_Connect
-└── 🐛 Fixed bugs in Game-Garden-Adventure
-```
-
-</div>
 
 ---
 
