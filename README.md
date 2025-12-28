@@ -1,262 +1,345 @@
-<h1 align="center">Hi there 👋, I'm Aman Pratap Singh</h1>
+# Aman Pratap Singh
 
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&width=435&lines=React+Developer;3D+Designer;Always+Learning+New+Tech!+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  Computer Science Undergraduate | Full-Stack Developer      ║
+║              Technical Secretary, CTA                        ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-aman67032-181717?style=for-the-badge&logo=github)](https://github.com/aman67032)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-pratap-singh-bb7b3532a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amanpratapsingh.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpratapsingh@jklu.edu.in)
+
+</div>
 
 ---
 
-## 🌟 About Me
+## About Me
+
+```typescript
+const aman = {
+    education: "B.Tech Computer Science @ JK Lakshmipat University, Jaipur",
+    role: "Technical Secretary, Council of Technical Affairs",
+    passion: ["Full-Stack Development", "Hackathons", "Problem Solving"],
+    experience: "Building institutional, hackathon & personal projects",
+    focus: "Scalable real-world applications",
+    stats: {
+        hackathons: "10+",
+        projects: "15+",
+        teachingHours: "100+",
+        contributions: "Active on GitHub"
+    }
+};
+```
+
+I am a Computer Science student specializing in **full-stack web development**, with hands-on experience in building production-grade applications. I thrive in hackathons, lead technical initiatives at my university, and continuously work on projects that bridge technology with real-world impact.
+
+### Quick Facts
+
+<div align="center">
+
+| Category | Details |
+|----------|---------|
+| **Current Position** | Technical Secretary, Council of Technical Affairs |
+| **University** | JK Lakshmipat University, Jaipur |
+| **Experience** | 2+ years in Full-Stack Development |
+| **Hackathons** | Participated in 10+ competitions, Top 6 at Circuit Jam |
+| **Teaching** | Python Lab Teaching Assistant (100+ hours) |
+| **Projects** | 15+ completed (Institutional, Hackathon & Personal) |
+| **Open Source** | Active contributor on GitHub |
+| **Specialization** | Full-Stack Web Development, Backend Systems |
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Backend & Database** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **AI/ML** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) SBERT (NLP) |
+| **Tools & Design** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) STM32 |
+
+</div>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎓 Education
-**B.Tech Computer Science** student at **JK Lakshmipat University**
+### HerbspHere
+Interactive web platform showcasing medicinal herbs and their applications with engaging UI design.
 
-### 💡 Interests
-- Full-Stack Development
-- AI/ML & Deep Learning
-- Embedded Systems
-- Design Thinking
+**Tech Stack:** HTML, CSS, JavaScript
 
-### 🧠 Currently Learning
-- React & Advanced JavaScript
-- STM32 Microcontrollers
-- Deepfake Detection
-- SBERT & NLP
-- RVM & OpenCV
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/aman67032/HerbspHere)
 
 </td>
 <td width="50%">
 
-### 🚀 Goal
-To become a **Full-Stack Developer** 
-And To become a **competitive programmer** 
+### Health Connect
+Healthcare web application designed for elderly assistance with medicine reminders and health management features.
 
-### 🔥 Passionate About
-- Building innovative solutions
-- Open source contribution
-- Hardware-software integration
-- Creating user-centric designs
-- Solving Competitive Qus on Codechef , leetcode and codeforce
+**Tech Stack:** TypeScript, Web Technologies
 
-### 🎯 Focus Areas
-- **Frontend**: React, Modern CSS, UI/UX
-- **Backend**: Node.js, Python, APIs
-- **AI/ML**: Computer Vision, NLP
-- **Hardware**: STM32, Arduino, IoT
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/aman67032/Health_Connect)
 
 </td>
 </tr>
+
+<tr>
+<td width="50%">
+
+### Exam Quiz Portal – JKLU
+Institutional-level examination and quiz management system built for university-wide deployment.
+
+**Tech Stack:** TypeScript
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/aman67032/Exam_quiz_Portal_Lib_JKLU)
+
+</td>
+<td width="50%">
+
+### Exam Portal Backend – JKLU
+Robust backend system handling exam logic, workflows, and data management.
+
+**Tech Stack:** Python
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/aman67032/Exam_portal_backend_JKLU_solomaze)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### CareSure (EBM) – Full Stack
+Enterprise-grade application with comprehensive frontend and backend systems for business workflow management.
+
+**Tech Stack:** TypeScript, JavaScript
+
+[![Frontend](https://img.shields.io/badge/View-Frontend-181717?style=flat&logo=github)](https://github.com/aman67032/CareSure_Frontend_EBM)
+[![Backend](https://img.shields.io/badge/View-Backend-181717?style=flat&logo=github)](https://github.com/aman67032/Careure_EBM_Backend)
+
+</td>
+<td width="50%">
+
+### RTI Portal
+Civic technology platform providing Right to Information resources and tools for students and citizens.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/aman67032/RTI_MAIN)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Game Garden – Adventure
+Browser-based adventure game featuring interactive gameplay mechanics, developed during hackathon sprint.
+
+**Tech Stack:** JavaScript
+
+[![Repo](https://img.shields.io/badge/View-Repository-181717?style=flat&logo=github)](https://github.com/aman67032/Game-Garden-Adventure-)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+
 </table>
 
 ---
 
-## 🏆 Recent Hackathons & Achievements
+## Experience Highlights
 
 <div align="center">
 
-| 🏅 Event | 🚀 Project | 🛠️ Tech Stack |
-|----------|------------|---------------|
-| **IYD Hackathon 2025** | AI-based Ramayana Fact Checker | SBERT, NLP, Python |
-| **Frontend UI Hackathon 2025** | Dashboards, Games & Animated Pages | HTML5, CSS3, JavaScript |
-| **Circuit Jam by IIIT Surat** | Temperature Monitoring System | STM32, EasyEDA |
-| **College Projects** | RTI Portal, PhotoEdit Pro, Aarambha 2025 | React, Node.js, Full-Stack |
+```
+┌─────────────────────────────────────────────────────────────┐
+│ Technical Secretary                                         │
+│ Council of Technical Affairs, JKLU                          │
+│ • Leading technical initiatives & coordinating events       │
+│ • Managing 50+ technical team members                       │
+│ • Organizing hackathons, workshops, and tech talks          │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ Hackathon Enthusiast - 10+ Competitions                    │
+│ • Circuit Jam (IIIT Surat) – TOP 6 Finish                  │
+│ • Multiple internal and external hackathons                 │
+│ • Problem-solving under time constraints                    │
+│ • Team collaboration and rapid prototyping                  │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ Teaching Assistant - Python Programming Lab                │
+│ • Mentoring 100+ students in programming fundamentals       │
+│ • Conducting 50+ lab sessions                               │
+│ • Debugging and code review assistance                      │
+│ • Creating supplementary learning materials                 │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ Technical Coordinator - Sabrang, Aarambh                    │
+│ • Managing technical events for 500+ participants           │
+│ • Coordinating with 20+ speakers and judges                 │
+│ • Handling logistics and technical infrastructure           │
+│ • Ensuring smooth execution of college festivals            │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### Key Achievements
+
+<div align="center">
+
+| Achievement | Description |
+|-------------|-------------|
+| **Top 6 Finalist** | Circuit Jam Hackathon, IIIT Surat |
+| **15+ Projects** | Successfully delivered institutional and personal projects |
+| **100+ Students** | Mentored in Python programming |
+| **10+ Hackathons** | Participated with consistent problem-solving performance |
+| **50+ Events** | Coordinated as Technical Secretary |
+| **2+ Years** | Active full-stack development experience |
 
 </div>
 
 ---
 
-## 💻 Tech Stack & Tools
+## Current Focus
 
 <div align="center">
 
-### 💡 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```mermaid
+graph LR
+    A[Full-Stack Development] --> B[React + Node.js]
+    A --> C[Backend Systems]
+    C --> D[Database Architecture]
+    B --> E[Scalable Applications]
+    D --> E
+    E --> F[Real-World Impact]
+    
+    style A fill:#61dafb,stroke:#333,stroke-width:2px
+    style E fill:#339933,stroke:#333,stroke-width:2px
+    style F fill:#ff6b6b,stroke:#333,stroke-width:2px
+```
 
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 
-### 🔬 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+- Developing scalable full-stack applications using modern frameworks
+- Designing robust backend systems with PostgreSQL and Node.js
+- Competitive problem-solving through hackathons
+- Building production-ready solutions for real-world challenges
 
-### 🔌 Hardware & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+---
 
-### 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## GitHub Statistics & Activity
+
+<div align="center">
+
+### Contribution Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aman67032&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+### Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aman67032&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+### Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aman67032&theme=radical&hide_border=true)
+
+### Activity Graph
+
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aman67032&theme=react-dark&hide_border=true)](https://github.com/aman67032)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Contribution Metrics
 
 <div align="center">
 
-### 🌿 Virtual Herbal Garden
-> 3D simulation of plant care with AI chatbot & gamified interface for herbal education
-> 
-> **Tech Stack:** HTML, CSS, JavaScript, Blender, AI
-> 
-> **Status:** ✅ Completed
-
-### 📺 Deepfake Detector
-> AI-based website to detect face-swapped deepfake videos using advanced ML models
-> 
-> **Tech Stack:** RVM, OpenCV, Flask, React
-> 
-> **Status:** 🚧 In Progress
-
-### 🧠 Ramayana Fact Checker
-> Validates facts using SBERT & English-translated verses of Ramayana
-> 
-> **Tech Stack:** SBERT, CSV, Python
-> 
-> **Status:** ✅ Completed
-
-### 🌡️ STM32 Temperature Monitor
-> Reads analog temperature from TMP36 sensor & displays on LCD
-> 
-> **Tech Stack:** STM32CubeIDE, EasyEDA
-> 
-> **Status:** ✅ Completed
-
-### 👾 Retro Platformer Game
-> Pixel-art-based browser game made for a hackathon
-> 
-> **Tech Stack:** HTML, CSS, JavaScript
-> 
-> **Status:** ✅ Completed
-
-### 🎨 Cyberpunk AR Filter
-> Interactive AR experience with face/body tracking & SFX
-> 
-> **Tech Stack:** Snap Lens Studio
-> 
-> **Status:** ✅ Completed
-
-### 🏫 RTI Education Portal
-> Comprehensive education portal with multi-age frontend interfaces and adaptive learning paths
-> 
-> **Tech Stack:** React, Node.js, MongoDB, Bootstrap
-> 
-> **Status:** ✅ Completed
-
-### 📸 PhotoEdit Pro
-> Advanced photo editing web application with filters, cropping, and AI-powered enhancements
-> 
-> **Tech Stack:** JavaScript, Canvas API, CSS3, WebGL
-> 
-> **Status:** ✅ Completed
-
-### 🎓 Aarambha 2025 Website
-> Official college event website with dynamic content, registration system, and interactive features
-> 
-> **Tech Stack:** HTML5, CSS3, JavaScript, PHP, MySQL
-> 
-> **Status:** 📌 OnGoing
+| Metric | Details |
+|--------|---------|
+| **Total Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/aman67032&style=flat-square) |
+| **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/aman67032?style=flat-square&color=yellow) |
+| **Total Forks** | ![Forks](https://img.shields.io/github/forks/aman67032?style=flat-square&color=green) |
+| **Pull Requests** | ![PRs](https://img.shields.io/badge/Pull%20Requests-Check%20Profile-orange?style=flat-square) |
+| **Issues Opened** | ![Issues](https://img.shields.io/badge/Issues-Check%20Profile-red?style=flat-square) |
+| **Contributions (2024)** | ![Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=flat-square) |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## Recent Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aman67032&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<!--START_SECTION:activity-->
+<!-- This section can be automated with GitHub Actions -->
+<!-- For now, manually update your recent activities -->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman67032&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman67032&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</div>
-
-## 🏅 Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark: Created pull requests merged" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" title="Starstruck: Gained stars on repositories" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw: Closed issues/pull requests quickly" />
-</p>
-
-
-
----
-
-## 🎯 Current Focus Areas
-
-<div align="center">
-
-| 🔥 Area | 📚 Learning | 🎯 Goal |
-|---------|-------------|---------|
-| **Frontend Development** | React, Advanced CSS, UI/UX | Build responsive, interactive web apps |
-| **Backend Development** | Node.js, APIs, Databases | Create scalable server-side solutions |
-| **AI/ML** | SBERT, Computer Vision, NLP | Develop intelligent applications |
-| **Embedded Systems** | STM32, IoT, Hardware Integration | Bridge software and hardware |
+```
+Recent Contributions:
+├── 🔨 Pushed to CareSure_Frontend_EBM
+├── 🔀 Merged PR in Exam_portal_backend_JKLU_solomaze
+├── ⭐ Created new repository: [Recent Project Name]
+├── 📝 Updated documentation in Health_Connect
+└── 🐛 Fixed bugs in Game-Garden-Adventure
+```
 
 </div>
 
 ---
 
-## 🌈 Fun Facts About Me
+## Let's Connect
 
 <div align="center">
 
-🎮 **Gaming Enthusiast** - Love retro games and building my own  
-🎨 **Design Thinking** - Passionate about creating user-centric designs  
-🤖 **AI Explorer** - Always experimenting with new ML models  
-🔧 **Hardware Hacker** - Enjoy building IoT projects and embedded systems  
-📚 **Continuous Learner** - Always learning new technologies and frameworks  
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  "Learning by building. Improving by doing."                │
+│                                                              │
+│  Open to collaborations, opportunities, and conversations   │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+**Feel free to reach out for collaborations or just a tech chat!**
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/aman67032)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-pratap-singh-bb7b3532a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amanpratapsingh.dev)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpratapsingh@jklu.edu.in)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aman67032)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/aman-pratap-singh-bb7b3532a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amanpratapsingh.dev) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpratapsingh@jklu.edu.in)
+⭐ **If you find my work interesting, consider giving it a star!** ⭐
 
 </div>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman67032&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</p>
-
-<div align="center">
-
-### 💫 "Building the future with code ⚡"
-### 🤖 "AI enthusiast & problem solver"
-### 🚀 "Full-stack developer in making"
-### ✨ "Hardware + Software = Magic"
-
----
-
-</div>
-
-
