@@ -46,7 +46,7 @@ I am a Computer Science student specializing in **full-stack web development**, 
 |----------|---------|
 | **Current Position** | Technical Secretary, Council of Technical Affairs |
 | **University** | JK Lakshmipat University, Jaipur |
-| **Experience** | 2+ years in Full-Stack Development |
+| **Experience** | 1+ years in Full-Stack Development |
 | **Hackathons** | Participated in 10+ competitions, Top 6 at Circuit Jam |
 | **Teaching** | Python Lab Teaching Assistant (100+ hours) |
 | **Projects** | 15+ completed (Institutional, Hackathon & Personal) |
@@ -331,7 +331,6 @@ Recent Contributions:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/aman67032)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-pratap-singh-bb7b3532a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amanpratapsingh.dev)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpratapsingh@jklu.edu.in)
 
 </div>
